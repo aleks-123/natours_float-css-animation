@@ -4,7 +4,7 @@
 
 # Natours project
 * Float
-The Natours Project was built with the Advanced CSS, SASS and NPM packages.Beautiful landing page, perfect for a tour company 🌴💦.
+- The Natours Project was built with the Advanced CSS, SASS and NPM packages.Beautiful landing page, perfect for a tour company 🌴💦.
 
 
 ## Screenshots
